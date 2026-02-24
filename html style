@@ -7,3 +7,43 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+<body>
+    <h1>Dominion Guard Group</h1> 
+    <p>Professional Security & Protection Services</p>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container">
+        <h2>Our Services</h2>
+        <p>We provide professional security, event protection, and personal safety services for businesses and individuals.</p>
+        <!-- You can add images, cards, and service lists here -->
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        &copy; 2026 Dominion Guard Group. All rights reserved.
+    </footer>
+</body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dominion Guard Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>Dominion Guard Group</h1> 
+<p>Professional Security & Protection Services</p>
+
+</body>
+</html>
